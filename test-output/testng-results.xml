@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64" started-at="2017-09-16T09:47:05Z" finished-at="2017-09-16T09:47:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64" started-at="2017-09-16T09:47:05Z" finished-at="2017-09-16T09:47:05Z">
+      <class name="com.realtime.sample.Reports">
+        <test-method status="PASS" signature="testreport1()[pri:0, instance:com.realtime.sample.Reports@67b92f0a]" name="testreport1" duration-ms="16" started-at="2017-09-16T15:17:05Z" finished-at="2017-09-16T15:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testreport1 -->
+        <test-method status="PASS" signature="testreport2()[pri:0, instance:com.realtime.sample.Reports@67b92f0a]" name="testreport2" duration-ms="1" started-at="2017-09-16T15:17:05Z" finished-at="2017-09-16T15:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testreport2 -->
+        <test-method status="PASS" signature="testreport3()[pri:0, instance:com.realtime.sample.Reports@67b92f0a]" name="testreport3" duration-ms="16" started-at="2017-09-16T15:17:05Z" finished-at="2017-09-16T15:17:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testreport3 -->
+      </class> <!-- com.realtime.sample.Reports -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

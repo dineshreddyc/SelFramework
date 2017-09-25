@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<parameter name="first-name" value="hello"></parameter>		
+<parameter name="last-name" value="hello"></parameter>
+
+ <test name="TestNew">
+    <classes>
+      <class name="com.realtime.sample.Parametertestng"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
