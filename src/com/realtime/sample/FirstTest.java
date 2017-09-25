@@ -23,6 +23,8 @@ public class FirstTest {
 	public void method3()
 	{
 		System.out.println("this is  first method3");
+				System.out.println("this is  first method3");
+
 	}
 	
 	@Test(priority=1)
